@@ -38,4 +38,40 @@ Created a generative code editor since I only debug with print statements
 
 ![Debug View](DebugView/DebugView.png)
 
+### Day 6: Steal like an artist
 
+#### Untitled Red Black 
+
+Recreated Georg Nees's 1970 beauty Untitled Red Black
+
+![Untitled Red Black](Untitled_RedBlack/Untitled_RedBlack.png)
+
+### Day 7: Sample a color palette from your favorite movie/album cover
+
+#### Moonlight
+
+Sampled the beautiful palette of Moonlight (2016)
+
+![Moonlight](Moonlight/Moonlight.png)
+
+### Day 9: Plants
+
+#### Foliage by Moonlight
+
+![Foliage by Moonlight](Foliage_By_Moonlight/Foliage_By_Moonlight.png)
+
+### Day 13: Something you've always wanted to learn
+
+#### Corona
+
+Always wanted to learn how to simulate watercolour textures. This one was a bit of a fail, but still had fun doing it. Calling it corona because it reminds me of coronagraphic images of the sun.
+
+![Corona](Corona/Corona.png)
+
+### Day 14: Asemic
+
+#### Pleasant Nonsense
+
+Wrote an asemic haiku
+
+![Pleasant Nonsense](PleasantNonsense/PleasantNonsense.png)
